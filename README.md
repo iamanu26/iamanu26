@@ -1,164 +1,42 @@
 # 👋 Hi, I’m Anurag Dubey
-              _
-             | |
-             | |===( )   //////
-             |_|   |||  | o o|
-                    ||| ( c  )                  ____         building systems 
-                     ||| \= /                  ||   \_       that actually work
-                      ||||||                   ||     |      not just demos.   
-                      ||||||                ...||__/|-"      -> code • logic • impact
-                      ||||||             __|________|__
-                        |||             |______________|
-                        |||             || ||      || ||
-                        |||             || ||      || ||
-------------------------|||-------------||-||------||-||-------
-                        |__>            || ||      || ||
 
+I’m a **Full-Stack Developer & System Builder** who enjoys building **real-world, scalable systems** — especially **real-time platforms, backend architectures, authentication systems, and AI-assisted decision engines**.
 
-     hit any key to continue
-
-
-I’m a **Full-Stack Developer & System Builder** focused on building **real-world, scalable software systems** — especially **real-time platforms, backend architectures, authentication systems, and AI-assisted decision engines**.
-
-I believe in **end-to-end ownership**: designing, building, deploying, and *explaining* systems clearly.
+I focus on **end-to-end ownership**: designing, building, deploying, and clearly explaining systems.
 
 ---
 
-## 🧠 How I Think About Software
+## 🚀 Highlight Project
 
-- **Systems > Scripts**
-- **Real-time problems are the hardest (and most fun)**
-- **Security & data flow matter**, even in student projects
-- **Every project should be demo-able, explainable, and useful**
-
-> *Automation without understanding is fragile. Understanding without execution is useless.*
+### 🚆 Real-Time Digital Twin for Railway Logistics (AI-Optimized)
+A real-time, multi-user railway simulation system with an AI decision engine to optimize routing, reduce delays, and prevent collisions.  
+**Tech Stack:** Vanilla JS, HTML5, Node.js, Socket.IO, Python (Flask), PyTorch, Stable-Baselines3(RL), WebSockets, Vercel, Render.
 
 ---
 
-## 🚀 Featured Projects
-
-## 1️⃣ Real-Time Digital Twin for Railway Logistics (AI-Optimized)
-
-🔗 **Live:** https://railway-simulation-nine.vercel.app/  
-💻 **GitHub:** https://github.com/iamanu26/railway-simulation  
-
-### Overview
-A **scalable, real-time simulation platform** that creates a **Digital Twin of a railway network**.  
-Multiple users interact simultaneously (**Station Master & Loco Pilots**), while an **AI Reinforcement Learning model** analyzes traffic patterns and suggests optimal routing decisions to reduce delays and prevent collisions.
-
-### Architecture (Event-Driven Microservices)
-- **Frontend:** Vanilla JavaScript + HTML5 (Vercel)
-- **Real-Time Server:** Node.js + Socket.IO (Render)
-- **AI Engine:** Python (Flask) + PPO RL model (PyTorch, Stable-Baselines3)
-
-### Key Engineering Highlights
-- **Real-Time Sync (<50ms):** WebSockets to sync train positions, signals, and speed across devices
-- **Scalability Optimization:** Socket.IO Rooms for targeted updates → **90% bandwidth reduction**
-- **AI Decision Support:** RL agent provides actionable insights (e.g., *“Reroute Train 12951 to Loop Line”*)
-- **Emergency Handling:** Instant Emergency Stop system halting simulation threads and alerting control center
-- **Cloud-Native Deployment:** CI/CD pipeline (GitHub → Vercel / Render)
-
-### Interview Demo Flow
-1. Open site on laptop → login as **Station Master (SM101 – NDL)**
-2. Open site on phone (mobile data) → login as **Loco Pilot (LP201 – Train 12951)**
-3. Trigger **Emergency Stop** → instant alert on laptop
-4. Show **AI recommendation** appearing live
+### 📺 YouTube Backend System
+A production-style backend replicating core features of a video streaming platform with secure authentication and scalable APIs.  
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT (Access & Refresh Tokens), Cloudinary, REST APIs.
 
 ---
 
-## 2️⃣ YouTube Backend System (Node.js)
-
-A **production-style backend** inspired by real video platforms.
-
-### Features
-- JWT Authentication (**Access + Refresh Tokens**)
-- Secure middleware-based request handling
-- Video, subscription, and channel management
-- Cloudinary integration for media uploads
-- Clean controller-service-model architecture
-
-### What This Demonstrates
-- Strong **backend architecture fundamentals**
-- Secure **auth flows & token lifecycle management**
-- Real-world Express.js project structure
+### 🌱 PlantDoc – AI-Powered Plant Disease Detection
+A full-stack AI application that detects plant diseases from leaf images with **92.7% accuracy** using deep learning.  
+**Tech Stack:** React (Vite), Node.js, Express.js, MongoDB, Python, TensorFlow/Keras, MobileNetV2, JWT, Google OAuth.
 
 ---
 
-## 3️⃣ PlantDoc – AI-Powered Plant Disease Detection 🌱
-
-### Overview
-A **full-stack AI web application** that detects plant diseases from leaf images with **92.7% accuracy**.
-
-### Tech Stack
-- **Frontend:** React (Vite)
-- **Backend:** Node.js, Express.js
-- **AI Service:** Python (TensorFlow / Keras)
-- **Database:** MongoDB
-
-### Key Contributions
-- Hybrid architecture connecting **Node.js backend with Python AI service** via child processes
-- **Transfer Learning (MobileNetV2)** optimized for low-latency inference
-- Secure authentication using **JWT + Google OAuth 2.0 (Passport.js)**
-- Deployed frontend on **Vercel** and backend on **Render**
-- Solved complex **CORS & environment configuration issues**
-
----
-
-## 4️⃣ Prominix Limited – Full-Stack IT Solutions Platform
-
-A startup-style **IT services platform** with a public website and a secure **Developer (Insider) dashboard**.
-
-> 🔹 **My Contribution:** Frontend Development
-
-### Tech Stack
-**Frontend:** React (Vite), React Router DOM, Bootstrap, Custom CSS  
-**Backend:** ASP.NET Core Web API, Entity Framework Core, SQL Server LocalDB  
-
-### Key Frontend Features
-- Modern dark-themed responsive landing page
-- FAQ accordion & delayed-appearance chatbot
-- Role-based routing (Developer vs Client)
-- Secure Insider Dashboard UI
-
-### Insider Dashboard Highlights
-- Attendance & Timesheet UI (weekly navigation, color-coded status cards)
-- Modal-based hour logging
-- Time-based greetings & notification center
-
----
-
-## 🧰 Tech Stack Summary
-
-**Languages:** JavaScript (ES6+), Python, Java, C, C#  
-**Frontend:** React, HTML5, CSS3, Bootstrap  
-**Backend:** Node.js, Express.js, ASP.NET Core, Flask  
-**Real-Time & AI:** Socket.IO, WebSockets, PyTorch, TensorFlow, PPO (RL)  
-**Databases:** MongoDB, SQL Server  
-**DevOps:** Git/GitHub, Vercel, Render, CI/CD  
-
----
+### 🏢 Prominix Limited – IT Solutions Platform
+A startup-style IT services platform with a public website and a secure developer dashboard (frontend contribution).  
+**Tech Stack:** React (Vite), React Router, Bootstrap, Custom CSS, ASP.NET Core Web API, Entity Framework, SQL Server.
 
 ## 🎓 Achievements
 
-- Solved **280+ Data Structures & Algorithms problems** on **LeetCode**, covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, Greedy, and Sliding Window techniques.
-- Smart India Hackathon 2025 – Participant  
-- Best Parliamentary Award – GLBMUN    
-- **Design & Creative Lead**, Sports Club – GL Bajaj (2024–25)  
-- **Secretary**, Sports Club – GL Bajaj (2025–26)  
+- Solved **280+ Data Structures & Algorithms problems** on **LeetCode** https://leetcode.com/u/iamanu26_/
+- Best Parliamentary Award – GLBMUN  
+- **Secretary**, Sports Club – GL Bajaj (2025–26)
+- **Design & Creative Lead**, Sports Club – GL Bajaj (2024–25)
+- Smart India Hackathon 2025 – Participant
 - **12th PCM:** 92.4%  
 - **10th Standard (Mathematics):** 87%  
-
-
----
-
-## 🤝 Let’s Connect
-
-I’m interested in **backend & full-stack roles**, **real-time systems**, and **AI-assisted platforms**.
-
-If you value **clear system design**, **working demos**, and **engineering depth**, we’ll get along well.
-
-🚀 *Always building. Always improving.*
-
-
-     
 
