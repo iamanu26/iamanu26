@@ -37,6 +37,5 @@ A startup-style IT services platform with a public website and a secure develope
 - **Secretary**, Sports Club – GL Bajaj (2025–26)
 - **Design & Creative Lead**, Sports Club – GL Bajaj (2024–25)
 - Smart India Hackathon 2025 – Participant
-- **12th PCM:** 92.4%  
-- **10th Standard (Mathematics):** 87%  
+  
 
