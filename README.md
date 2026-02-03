@@ -2,6 +2,8 @@
 
 I’m a **Full-Stack Developer & System Builder** who enjoys building **real-world, scalable systems** — especially **real-time platforms, backend architectures, authentication systems, and AI-assisted decision engines**.
 
+🌐 **Portfolio:** [portfolio-iamanu26.vercel.app](https://portfolio-iamanu26.vercel.app/)
+
 I focus on **end-to-end ownership**: designing, building, deploying, and clearly explaining systems.
 
 ---
