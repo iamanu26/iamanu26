@@ -34,7 +34,7 @@ A startup-style IT services platform with a public website and a secure develope
 
 ## 🎓 Achievements
 
-- Solved **300+ Data Structures & Algorithms problems** on **LeetCode** https://leetcode.com/u/iamanu26_/
+- Solved **320+ Data Structures & Algorithms problems** on **LeetCode** https://leetcode.com/u/iamanu26_/
 - Best Parliamentary Award – GLBMUN  
 - **Secretary**, Sports Club – GL Bajaj (2025–26)
 - **Design & Creative Lead**, Sports Club – GL Bajaj (2024–25)
