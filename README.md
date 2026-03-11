@@ -6,6 +6,10 @@ I’m a **Full-Stack Developer & System Builder** who enjoys building **real-wor
 
 I focus on **end-to-end ownership**: designing, building, deploying, and clearly explaining systems.
 
+## My Github Stats
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=iamanu26) ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamanu26) ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=iamanu26)
+
 ---
 
 ## 🚀 Highlight Project
@@ -22,12 +26,6 @@ A production-style backend replicating core features of a video streaming platfo
 
 ---
 
-### 🌱 PlantDoc – AI-Powered Plant Disease Detection
-A full-stack AI application that detects plant diseases from leaf images with **92.7% accuracy** using deep learning.  
-**Tech Stack:** React (Vite), Node.js, Express.js, MongoDB, Python, TensorFlow/Keras, MobileNetV2, JWT, Google OAuth.
-
----
-
 ### 🏢 Prominix Limited – IT Solutions Platform
 A startup-style IT services platform with a public website and a secure developer dashboard (frontend contribution).  
 **Tech Stack:** React (Vite), React Router, Bootstrap, Custom CSS, ASP.NET Core Web API, Entity Framework, SQL Server.
@@ -39,5 +37,5 @@ A startup-style IT services platform with a public website and a secure develope
 - **Secretary**, Sports Club – GL Bajaj (2025–26)
 - **Design & Creative Lead**, Sports Club – GL Bajaj (2024–25)
 - Smart India Hackathon 2025 – Participant
-  
+
 
