@@ -140,17 +140,6 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 
 ---
 
-## 🏆 Achievements
-
-| 🏅 Achievement | Details |
-|---|---|
-| 💻 **LeetCode** | 320+ DSA problems solved · [iamanu26_](https://leetcode.com/u/iamanu26_/) |
-| 🏛️ **Best Parliamentary Award** | GLBMUN |
-| 🏆 **Smart India Hackathon 2025** | Participant |
-| ⚽ **Secretary**, Sports Club | GL Bajaj Institute · 2025–26 |
-| 🎨 **Design & Creative Lead**, Sports Club | GL Bajaj Institute · 2024–25 |
-
----
 
 <div align="center">
 
