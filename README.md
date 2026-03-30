@@ -80,7 +80,7 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 > *"The master strategist doesn't react to chaos — he prevents it."*
 > ChanakyanRail is a real-time digital twin of a railway network, where a Reinforcement Learning agent acts as the strategic mind — continuously analyzing 10 live trains and issuing intelligent speed & routing advisories to prevent collisions and eliminate delays before they cascade.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://railway-simulation.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://railway-simulation-nine.vercel.app/)
 [![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://railway-simulation.onrender.com)
 [![AI Engine](https://img.shields.io/badge/AI_Engine-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://railway-ai-brain.onrender.com)
 
