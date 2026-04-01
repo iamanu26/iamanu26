@@ -111,18 +111,6 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 
 ---
 
-### 🏢 Prominix Limited — IT Solutions Platform *(Frontend)*
-
-> Built the complete frontend for a startup-style IT services platform — public-facing website and a secure internal developer dashboard.
-
-**What makes it interesting:**
-- ⚡ Architected with **React + Vite** for fast load times and optimized bundle size
-- 🧭 Multi-page navigation built with **React Router** for a seamless SPA experience
-- 🎨 Fully custom UI with polished CSS — designed to connect cleanly with an ASP.NET Core + SQL Server backend
-
-`React (Vite)` `React Router` `Bootstrap` `Custom CSS`
-
----
 
 ### 📺 YouTube Backend System
 
