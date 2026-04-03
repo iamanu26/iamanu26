@@ -112,19 +112,6 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 ---
 
 
-### 📺 YouTube Backend System
-
-> A production-grade backend replicating core features of a video streaming platform — built for scale and security.
-
-**What makes it interesting:**
-- 🔐 Dual-token auth with **JWT Access + Refresh Tokens** and secure session management
-- ☁️ **Cloudinary** integration for video and image asset management
-- 🏗️ Clean, RESTful API design modeled after real-world streaming architecture
-
-`Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `REST APIs`
-
----
-
 
 <div align="center">
 
