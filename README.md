@@ -111,7 +111,7 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 - 🔐 **JWT auth + per-user history** — sessions are isolated, scores always reflect the current interview only
 - 🛠️ **Engineering depth** — solved shared agent state bugs, built a custom JSON parser to handle LLaMA's inconsistent output formats (markdown fences, `"7/10"` strings), and engineered strict scoring prompts with server-side caps to prevent inflated scores
 
-`React (Vite)` `FastAPI` `Python` `SQLAlchemy` `SQLite` `JWT` `LLaMA 3.1` `Groq API` `Web Speech API`
+`React (Vite)` `FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `JWT` `LLaMA 3.1` `Groq API` `Web Speech API`
 
 ---
 
