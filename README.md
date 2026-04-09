@@ -100,6 +100,10 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 
 > A full-stack voice-driven interview simulator that conducts real Technical & HR interviews using AI, scores your performance, and includes a LeetCode-style DSA practice module.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://mock-hire-ai-bay.vercel.app/)
+[![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://mock-hire-ai-bay.vercel.app/)
+[![Documentation](https://img.shields.io/badge/Documentation-000000?style=flat-square&logo=vercel)](https://mock-hire-ai-documentation.vercel.app/)
+
 **What makes it interesting:**
 - 🗣️ **Full voice interview loop** — AI speaks questions via speech synthesis, listens to spoken answers via Web Speech API, and asks intelligent follow-ups in real time — no typing required
 - 📊 **AI performance reports** — after each session, generates a detailed scorecard across Communication, Confidence, Technical Skills, Grammar & Overall with written strength/weakness analysis
