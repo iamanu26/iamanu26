@@ -5,7 +5,7 @@
 ### Full-Stack Developer · System Builder · Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4F46E5?style=for-the-badge)](https://portfolio-iamanu26.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-320+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/iamanu26_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/iamanu26_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
