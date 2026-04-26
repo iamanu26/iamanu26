@@ -92,7 +92,7 @@ My focus is **end-to-end ownership**: designing, building, deploying, and clearl
 - 📡 **Decoupled microservices architecture** — frontend (Vercel) → Node.js orchestrator (Render) → Flask AI brain (Render), communicating over REST + WebSockets
 - 🚨 Emergency stop interrupts that propagate instantly to the control center
 
-`Vanilla JS` `SVG` `Node.js` `Socket.IO` `Python` `Flask` `PyTorch` `Stable-Baselines3` `Gymnasium` `Vercel` `Render`
+`Vanilla JS` `SVG` `Node.js` `Socket.IO` `Python` `Flask` `PyTorch` `Stable-Baselines3` `Gymnasium` `Vercel` `Render` `OAuth`
 
 ---
 
